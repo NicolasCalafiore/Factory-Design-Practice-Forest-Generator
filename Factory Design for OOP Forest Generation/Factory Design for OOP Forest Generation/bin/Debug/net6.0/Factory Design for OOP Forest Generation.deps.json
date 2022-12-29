@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Factory Design for OOP Forest Generation/1.0.0": {
+        "runtime": {
+          "Factory Design for OOP Forest Generation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factory Design for OOP Forest Generation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
