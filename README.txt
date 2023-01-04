@@ -1,5 +1,5 @@
 Objective:
-  Utilize Strategy Design and Factory Design Pattern to represent objects (trees) as a number and is managed through an interface.
+Utilize Strategy Design and Factory Design Pattern to represent objects (trees) as a number and is managed through an interface.
 
 Functions:
 
