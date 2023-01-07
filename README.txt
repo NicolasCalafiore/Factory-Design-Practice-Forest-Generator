@@ -1,17 +1,16 @@
-Objective:
-Utilize Strategy Design and Factory Design Pattern to represent objects (trees) as a number and is managed through an interface.
+# Forest Generator
+## What the program is about (Version Independant)
+A program I developed to help me practice utilizing Factory Design. The program generates a certain number of trees, each tree a type of variety.
 
-Functions:
+#### Created: Late 2022
 
-  - Generates a "forest" or a matrix of numbers, each number represnting a Tree Object, that was created and managed using Factory Design and Strategy Design
-
-Notes:
-
-  - Planning on continuing to make the program more interactive and interesting.
-  - Planning on updating Graphic Components
-  - Planning on creating more options (such as X x Y lengths)
-  - General improvements
-
-Date: circa. Late 2022
-
-This project was created around late 2022 and will be maintained. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## About Version One
+ - Created Late 2022 
+ - C#
+ - Console App
+ 
+ - Generates a square forest
+ - Each number represents a tree
+ - The center of this project was how the numbers are created with each number representing an object that was created using Factory Design aswell as Strategy
+ - I'll probably slowly update this project whenever I'm bored to get a more visually appealing forest plus more diverse positioning of trees aswell as patterns (WIP)
